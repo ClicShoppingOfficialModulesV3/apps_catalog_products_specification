@@ -26,6 +26,6 @@ Activate the module Design/products description
 
 licence  : GPL 2 - MIT
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/7-apps-products-specification/
+Marketplace link : https://www.clicshopping.org/forum/files/file/7-apps-products-specification/
 
 ![specification](https://github.com/ClicShoppingOfficialModulesV3/apps_catalog_products_specification/blob/master/ModuleInfosJson/specification_products_admin.png)
